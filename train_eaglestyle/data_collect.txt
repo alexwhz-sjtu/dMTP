@@ -1,0 +1,126 @@
+Loading tokenizer from /share/public/public_models/Qwen2.5-7B-Instruct...
+Loading base model from /share/public/public_models/Qwen2.5-7B-Instruct...
+Reading from /share/wanghanzhen/MTP/d-Spec/dataset/LongWriter/evaluation/longbench_write_en.jsonl...
+  ✓ Generated 8049 tokens: ' Sure, here's a brief outline for a 100-word blog post about why Christmas Cacti make great housepla...'
+  ✓ Saved to prompt_000001: seq_len=8049
+  ✓ Generated 8049 tokens: '. Subject: Heartfelt Thanks for Your Expertise  Dear [Teller's Name],  I wanted to take a moment to ...'
+  ✓ Saved to prompt_000002: seq_len=8049
+  ✓ Generated 8049 tokens: ' The Sun in astrology symbolizes the core of one's personality, representing vitality, ego, and pers...'
+  ✓ Saved to prompt_000003: seq_len=8049
+  ✓ Generated 8049 tokens: ' Bad habits in reading can significantly hinder comprehension, retention, and overall enjoyment of t...'
+  ✓ Saved to prompt_000004: seq_len=8049
+  ✓ Generated 8049 tokens: '  Abstract:  This study explores the portrayal of female characters in online horror novels, focusin...'
+  ✓ Saved to prompt_000005: seq_len=8049
+  ✓ Generated 8049 tokens: ' The other one is trying to help her but is also slightly tipsy. The first girl is named Lily and th...'
+  ✓ Saved to prompt_000006: seq_len=8049
+  ✓ Generated 8049 tokens: ' Subject: Unleashing the Power of Artificial Intelligence  Dear Valued Readers,  Welcome to our late...'
+  ✓ Saved to prompt_000007: seq_len=8049
+  ✓ Generated 8049 tokens: '. 1. 😂 - Laughter Nick: "Oh man, that's a good one! I can't stop laughing!"  2. 😢 - Sadness Nick: "I...'
+  ✓ Saved to prompt_000008: seq_len=8049
+  ✓ Generated 8049 tokens: ' **Proposal to Enhance Software Delivery Quality**  **Introduction:** At [Company Name], we have bee...'
+  ✓ Saved to prompt_000009: seq_len=8049
+  ✓ Generated 8049 tokens: ' Coaching and guiding a Supply Engineer in managing and attesting project specifications and Value o...'
+  ✓ Saved to prompt_000010: seq_len=8049
+  ✓ Generated 8049 tokens: ' **A Flavorful Journey to Mexico: The Enchanted Taste of Chiles en Nogada**  As I stepped into the c...'
+  ✓ Saved to prompt_000011: seq_len=8049
+  ✓ Generated 8049 tokens: ' Dear [Blogger],  Firstly, congratulations on recognizing the importance of taking action towards im...'
+  ✓ Saved to prompt_000012: seq_len=8049
+  ✓ Generated 8049 tokens: ' Title: **Autumn's Golden Glow: A Community Thrives Through Outdoor Fitness**  As the crisp autumn a...'
+  ✓ Saved to prompt_000013: seq_len=8049
+  ✓ Generated 8049 tokens: ' The press release should be written in a professional tone and include relevant details about the p...'
+  ✓ Saved to prompt_000014: seq_len=8049
+  ✓ Generated 8049 tokens: ' Title: A Basic Technical Introduction to t-SNE Algorithm  t-Distributed Stochastic Neighbor Embeddi...'
+  ✓ Saved to prompt_000015: seq_len=8049
+  ✓ Generated 8049 tokens: '. The Spring Festival, also known as Chinese New Year, is a significant and joyous celebration that ...'
+  ✓ Saved to prompt_000016: seq_len=8049
+  ✓ Generated 8049 tokens: ' Use lots of repetition. Make sure to include the word "puddle" at least once. (12 months and under)...'
+  ✓ Saved to prompt_000017: seq_len=8049
+  ✓ Generated 8049 tokens: ' **Job Title: Senior Amazon Operations Manager**  **Location:** Remote (with occasional travel to ou...'
+  ✓ Saved to prompt_000018: seq_len=8049
+  ✓ Generated 8049 tokens: ' **Psychologist:** Good afternoon, thank you for sharing these thoughts with me. It sounds like you'...'
+  ✓ Saved to prompt_000019: seq_len=8049
+  ✓ Generated 8049 tokens: ' When photographing a group of Vietnamese women dressed in traditional attire, it is crucial to appr...'
+  ✓ Saved to prompt_000020: seq_len=8049
+  ✓ Generated 8049 tokens: ' In the heart of a quaint, sleepy town nestled between rolling hills and whispering woods stood a mo...'
+  ✓ Saved to prompt_000021: seq_len=8049
+  ✓ Generated 8049 tokens: '   Please write in a narrative style, using vivid details and sensory language to bring the story to...'
+  ✓ Saved to prompt_000022: seq_len=8049
+  ✓ Generated 8049 tokens: ' **Introducing [Company Name]: A Leader in [Industry Sector]**  **1. Company Overview:** Welcome to ...'
+  ✓ Saved to prompt_000023: seq_len=8049
+  ✓ Generated 8049 tokens: '  The Uber Driver Interview Script is a crucial component of the hiring process for drivers. It serv...'
+  ✓ Saved to prompt_000024: seq_len=8049
+  ✓ Generated 1922 tokens: '. Convolutional Long- and Short-Term Neural Networks (CNNs and LSTM) are powerful tools in the field...'
+  ✓ Saved to prompt_000025: seq_len=1922
+  ✓ Generated 8049 tokens: ' Include the following sections: Introduction, Learning Resources, Practical Application, and Assess...'
+  ✓ Saved to prompt_000026: seq_len=8049
+  ✓ Generated 8049 tokens: ' for the couple  Words of encouragement: Encourage guests to enjoy the celebration and cherish their...'
+  ✓ Saved to prompt_000027: seq_len=8049
+  ✓ Generated 8049 tokens: '-	CEVA Logistics is a global leader in contract logistics, providing innovative and sustainable solu...'
+  ✓ Saved to prompt_000028: seq_len=8049
+  ✓ Generated 8049 tokens: '  **Refugee Problems in Sudan and South Sudan: A Comprehensive Analysis**  ### Introduction  Sudan a...'
+  ✓ Saved to prompt_000029: seq_len=8049
+  ✓ Generated 8049 tokens: '   The scent of the ocean was in the air, salty and invigorating. The sun was setting over the horiz...'
+  ✓ Saved to prompt_000030: seq_len=8049
+  ✓ Generated 8049 tokens: ' The description should include the following steps:   1. Accessing the DPD simulation parameters in...'
+  ✓ Saved to prompt_000031: seq_len=8049
+  ✓ Generated 8049 tokens: ' The cost of hydraulic project engineering is a critical factor in the planning and execution of any...'
+  ✓ Saved to prompt_000032: seq_len=8049
+  ✓ Generated 8049 tokens: ' Root canal treatment is a dental procedure aimed at removing infected or inflamed pulp from the too...'
+  ✓ Saved to prompt_000033: seq_len=8049
+  ✓ Generated 8049 tokens: '   ### Introduction to OKR (Objectives and Key Results)  **OKR** stands for **Objectives and Key Res...'
+  ✓ Saved to prompt_000034: seq_len=8049
+  ✓ Generated 8049 tokens: ' In addition, please provide some suggestions for Harvard University to improve its admission proces...'
+  ✓ Saved to prompt_000035: seq_len=8049
+  ✓ Generated 8049 tokens: ' The research on the design and implementation of an online food supermarket management system using...'
+  ✓ Saved to prompt_000036: seq_len=8049
+  ✓ Generated 8049 tokens: ' **Dinosaurs: A Comprehensive Overview**  Dinosaurs are a diverse group of reptiles that dominated t...'
+  ✓ Saved to prompt_000037: seq_len=8049
+  ✓ Generated 8049 tokens: ' The title of the post should be "Implementing Hot-Pluggable AOP in Spring Boot: A Comprehensive Gui...'
+  ✓ Saved to prompt_000038: seq_len=8049
+  ✓ Generated 8049 tokens: ' Certainly! Here’s a creative story that meets the requirements:  ---  ### The Quest for the Golden ...'
+  ✓ Saved to prompt_000039: seq_len=8049
+  ✓ Generated 8049 tokens: ' The topic is "Addition and Subtraction within 1000". The teaching plan should be written in Chinese...'
+  ✓ Saved to prompt_000040: seq_len=8049
+  ✓ Generated 8049 tokens: ' The thesis should be written in English and include an abstract, introduction, literature review, m...'
+  ✓ Saved to prompt_000041: seq_len=8049
+  ✓ Generated 8049 tokens: '   I was a young boy, just ten years old, when I first encountered the ghost of my grandmother. She ...'
+  ✓ Saved to prompt_000042: seq_len=8049
+  ✓ Generated 8049 tokens: 'References Objective  The objective of this research is to investigate and report on the spending ha...'
+  ✓ Saved to prompt_000043: seq_len=8049
+  ✓ Generated 8049 tokens: ' It should include a detailed description of the crime scene, the suspects, and the detective's inve...'
+  ✓ Saved to prompt_000044: seq_len=8049
+  ✓ Generated 8049 tokens: '  Hong Kong is a bustling metropolis that combines the best of both worlds: the modern and the tradi...'
+  ✓ Saved to prompt_000045: seq_len=8049
+  ✓ Generated 8049 tokens: ' # Understanding Electromagnetic Induction: A Comprehensive Guide for Beginners  ## Introduction to ...'
+  ✓ Saved to prompt_000046: seq_len=8049
+  ✓ Generated 8049 tokens: ' Staining and Immunohistochemistry. The paper should include an introduction, literature review, met...'
+  ✓ Saved to prompt_000047: seq_len=8049
+  ✓ Generated 8049 tokens: ' # A Tragic Love Story: The Lady and the Servant  ### Chapter 1: The Grand Manor and Its Inhabitants...'
+  ✓ Saved to prompt_000048: seq_len=8049
+  ✓ Generated 8049 tokens: ' # Life and Works of Guo Moruo: A Pioneering Figure in Chinese Literature  ## Early Life and Educati...'
+  ✓ Saved to prompt_000049: seq_len=8049
+  ✓ Generated 8049 tokens: ' bears. Use the following outline:  I. Introduction A. Brief overview of the significance of pandas ...'
+  ✓ Saved to prompt_000050: seq_len=8049
+  ✓ Generated 8049 tokens: 'ual and physical sense  **Walking: A Journey of Spirit and Body**  Walking is an ancient and univers...'
+  ✓ Saved to prompt_000051: seq_len=8049
+  ✓ Generated 8049 tokens: '.  ### The Arena  The arena, a vast, desolate wasteland, stretches out before them like an endless s...'
+  ✓ Saved to prompt_000052: seq_len=8049
+  ✓ Generated 8049 tokens: ' The story should have a mix of action, suspense, and horror elements. The story should also include...'
+  ✓ Saved to prompt_000053: seq_len=8049
+  ✓ Generated 8049 tokens: '# Title: Research on the Application and Effectiveness of Educational Games in Elementary School Mat...'
+  ✓ Saved to prompt_000054: seq_len=8049
+  ✓ Generated 8049 tokens: '. The story should take place in a fantasy world with magic and mythical creatures. The main charact...'
+  ✓ Saved to prompt_000055: seq_len=8049
+  ✓ Generated 8049 tokens: ' The story should be written in third person omniscient point of view. The story should have a dark ...'
+  ✓ Saved to prompt_000056: seq_len=8049
+  ✓ Generated 8049 tokens: ', English=false  # Mathematical Fundamentals of Phased Antenna Arrays  ## Introduction  Phased anten...'
+  ✓ Saved to prompt_000057: seq_len=8049
+  ✓ Generated 8049 tokens: ' Title: **The Canvas of War**  ### Chapter 1: The Painter's Dream  Sony Wang was a young man with a ...'
+  ✓ Saved to prompt_000058: seq_len=8049
+  ✓ Generated 8049 tokens: ' The story should have a happy ending. The story should have a lot of dialogues and descriptions of ...'
+  ✓ Saved to prompt_000059: seq_len=8049
+  ✓ Generated 8049 tokens: ' Title: The Top 10 Business Opportunities in Benin Republic: A Comprehensive Guide  Introduction Ben...'
+  ✓ Saved to prompt_000060: seq_len=8049
+
+Data collection complete!
+  Total prompts processed: 60
